@@ -80,6 +80,7 @@ plt.title('COVID-19 Cases Distribution in the USA')
 plt.show()
 
 ```
+![figure 2](Figure_2.png)  
 这段代码中的核心变化是添加了一个循环，它遍历usa_with_covid中的每一行（每个州），使用plt.text()在每个州的中心点位置上绘制该州的名称（idx为州名）。horizontalalignment='center'确保文本在中心点水平居中，fontsize=6设置了文本的字体大小，这个值可以根据实际需要进行调整以保证文本的清晰度和地图的可读性。  
 
 请注意，由于州的地理形状和大小差异很大，某些州名可能不会完美居中或可能会与邻近州的名称重叠。调整字体大小或使用州的不同位置可能有助于改善这一点。  
