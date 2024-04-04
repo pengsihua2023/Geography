@@ -141,5 +141,5 @@ plt.show()
 
 ```
 ![figure 3](Figure_3.png)  
-![figure 32](Figure_32.png) 
+
 
