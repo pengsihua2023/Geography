@@ -140,5 +140,6 @@ plt.title('COVID-19 Cases Distribution in the USA')
 plt.show()
 
 ```
-![figure 3](Figure_3.png)    
+![figure 3](Figure_3.png)  
+![figure 32](Figure_32.png) 
 
